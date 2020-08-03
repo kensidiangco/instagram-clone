@@ -1,0 +1,22 @@
+.ImageUpload {
+	display: flex;
+	flex-direction: column;
+	width: 40%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	border-bottom: 1px solid lightgray;
+}
+.upload__progress {
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
+.upload__input {
+	outline-color: skyblue;
+	border-radius: 4px;
+	padding: 10px;
+	border: 1px solid lightgray;
+	margin: 5px;
+}
